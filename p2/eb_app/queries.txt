@@ -1,0 +1,7 @@
+1)  ken kpb3 passken 3 50003
+2a) sean spo38 passsean 100000000003 100001000001
+2b) theo tg294 passtheo 100001000003 100002000001
+2c) z zt27 passz 100002000003 100003000001
+2d) edward ejt64 passedward 100003000003 100004000001
+
+Skip the even numbers. Do not make requests for them.
